@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--
+
 I'm Malek. I'm a software engineering student. Check out my work
 
 ## 🧰 &nbsp;My toolbox
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  
